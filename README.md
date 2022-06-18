@@ -5,7 +5,7 @@
 ## 最新一期视频!!
 在做，还没有，暑假应该能发出来(雾  
 不过有封面  
-![](https://github.com/HeW3/source/blob/main/cover1.png)
+<img src="https://github.com/HeW3/source/blob/main/cover1.png" width="600px">
 ## 使用
 1. 一般不会用到**第三方库**，复制粘贴就能使用了  
 2. 仅支持**windows**下运行, 可作为移植其他平台可的参考代码  
@@ -33,4 +33,4 @@ bilibili ID: 林好学升
 [传送门](https://space.bilibili.com/1234642275)  
 (Cgame视频的风格是仿照B站UP[你已经是大佬啦快和萌新们聊天吧](https://space.bilibili.com/345058248 "膜拜大佬")做的，已经得到了ta的许可  
 图片:  
-![](https://github.com/HeW3/source/blob/main/allow.png)  
+<img src="https://github.com/HeW3/source/blob/main/allow.png" width="600px">
